@@ -1,0 +1,1 @@
+Rafts: Yes, Support: Yes, Infill: 7% Gyroid, PLA
